@@ -1,3 +1,3 @@
 # October2018
 Refreshing git knowledge
-Edit the 33rd line
+Edit the 3rd line
